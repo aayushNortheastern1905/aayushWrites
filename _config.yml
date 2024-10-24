@@ -30,9 +30,9 @@ github_username:  aayushNortheastern1905
 header_pages:
   - about.markdown
   - cool_stuff.markdown
-  - resume.markdown
   - blog.markdown
   - movies.markdown
+  - resume.markdown
 
 
 # Build settings
