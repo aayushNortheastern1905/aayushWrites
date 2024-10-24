@@ -22,8 +22,8 @@ title: Aayush Sawant Writes
 email: swnt.aayush@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I write blogs about my life experiences here
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/aayushWrites" # the subpath of your site, e.g. /blog
+url: "https://aayushnortheastern1905.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  aayushNortheastern1905
 
