@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Cool Shit
 ---
 
 ## Cool Stuff I Find Interesting 🌟
