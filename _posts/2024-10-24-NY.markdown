@@ -16,6 +16,7 @@ Since then, for over a decade, I’ve devoured everything New York: Scorsese’s
 October 12th was the date, and I was all in. I even found cheap flights on Spirit Airlines, oblivious to the “reputation” Spirit holds in US airspace. Long story short? My flight was delayed 2.5 hours. Naively, I’d even paid $18 extra for a window seat, only to find it blurred beyond recognition. Once in Newark, I made my way to Journal Square, where we’d booked a hotel. Reunited, freshened up, we headed straight for “The Edge.” Curious about why an observatory charges $56 for a view, I was thrilled to be proven wrong. We’d timed it for sunset, and the view? Worth every penny. Hudson Yards sparkled beneath us, and the skyline was breathtaking, especially with a cold Coney Island IPA in hand.
 ![NYC skyline]({{ site.baseurl }}/assets/images/nyc-skyline.jpg)
 After snapping 200+ photos, we descended toward our next stop: the High Line. I’d grown tipsy enough to find the NYC skyline even more surreal. Someone cracked a joke about our hotel elevator being slower than our trip to the top of the Edge. We wandered aimlessly down the High Line and ended up at Artichoke Basille’s for pizza, which, in my opinion, was way overhyped. It was massive and… just didn’t live up to the buzz.
+
 ![tatti pizza]({{ site.baseurl }}/assets/images/faltu_pizza.jpg) 
 
 Eventually, fatigue hit, and we realized there was no way we’d make it to the 33rd Street PATH station. Thankfully, Lyft coupons saved us, and soon enough, we were back at the hotel.
@@ -33,7 +34,7 @@ Afterward, we hit the 33rd Street PATH and took the subway into Manhattan (I did
 
 From there, we subwayed down to South Ferry and hopped onto the Staten Island Ferry, hoping to catch a glimpse of the Statue of Liberty. The ferry was packed, reminding me of the M2M ferries we’d take back in India. By the time we reached Staten Island, Jash suggested taking a paid ferry back for a closer look at Lady Liberty, but we’d missed it. The Manhattan skyline at sunset, however, was stunning enough.
 
-
+    
 
 ![bakchodi in room]({{ site.baseurl }}/assets/images/IMG-20241027-WA0010.jpg)
 
