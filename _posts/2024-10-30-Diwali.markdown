@@ -29,13 +29,9 @@ Now, as I celebrate Diwali in the U.S., it feels different. I don’t have my mo
 ![faral of 2023]({{ site.baseurl }}/assets/images/diwaliblog/lantern.jpg)
 This year, Diwali’s first day coincided with Halloween, and as a Boston resident, Halloween is big here. All my roommates went to Salem, MA – the famous "witch town" – but I had to stay back because of a dreaded midterm. Anyway, tomorrow is Laxmi Poojan, and my plan is to go to the temple, sit through a tedious business lecture, then have some nice Indian food, light the lantern and diyas, and pray for happiness and health for everyone. I remember very well, it was 2022 and I was done with my applications and I knew that,this was the last diwali I was about to celebrate in India for quite some time now. So I went all out and brought tons of crackers and burst them all, just to pander the 13 year old Aayush in me. 
 
-Here is the video of me bursting some awesome ones:
+
 
 ![firecrakcer video]({{ site.baseurl }}/assets/images/diwaliblog/VID_20221030_215049.mp4)
-<video width="600" controls>
-  <source src="{{ site.baseurl }}/assets/images/diwaliblog/VID_20221030_215049.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 In the end, Diwali is about strengthening our inner selves so we can attract wealth and inner prosperity. I hope one day I’ll be able to enjoy the same comforts of Diwali at home once I have a full-time job and some stability. That’s my Diwali story, and I’m grateful for all the memories – past and present.
 ![NYC skyline]({{ site.baseurl }}/assets/images/diwaliblog/instasize_231002123425.jpg)
