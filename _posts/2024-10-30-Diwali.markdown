@@ -5,3 +5,37 @@ date:   2024-10-30
 categories: blog
 ---
 
+![faral of 2023]({{ site.baseurl }}/assets/images/diwaliblog/lantern.jpg)
+
+I have a warm memory of what every October-November period looked like when I was in school. Suddenly, the usually mundane classroom would light up, and everyone seemed to get a burst of energy, all because Diwali was just around the corner. For those unfamiliar, "Diwali Day" was the last day of school before our Diwali holidays started, and of course, we got to dress up in our most dapper traditional wear. The excitement was real.
+
+
+For an above-average student who sometimes struggled socially, it felt a bit different. Don’t get me wrong; I enjoyed dressing up – it was just the social part that felt awkward. I’d dress up for the school tradition, but then what? How was I supposed to click pictures with everyone or get involved? I would end up sitting with other socially awkward classmates, trying to figure it out. But enough about that.
+
+Back home, things were different. Every Diwali, I’d wake up early and take an abhyang snan with utna prepared by my lovely mother. Then, I’d help her with the decorations, making the flower toran that we’d hang above the door and washing all the Hindu deities’ idols in our home. Once the pooja was done, we’d sit down to feast on the best faral (Diwali sweets and snacks) prepared by my mother. If I haven’t said it enough, my mom is the most incredible person I know – she’s creative and can cook like no one else. Any culinary skill I have is all thanks to her coaching.
+
+![faral of2017]({{ site.baseurl }}/assets/images/diwaliblog/faral.jpg)
+Afterwards, I’d spend the morning playing cricket – it was too early to burst crackers, after all. Later, we’d play some ping pong at the clubhouse and return home for a bit of rest. In the evening, I’d take another bath and sit with my father to perform Laxmi Poojan, and then we’d go outside to burst firecrackers. My brother Ninad and I would go all out with the crackers, and then we’d end the night with a family dinner at a nice restaurant. I vividly remember Diwali 2013 – I was still in school, and the India vs. Australia Border-Gavaskar Trophy was on. India chased down big scores, with Kohli, Dhawan, and Rohit all posting huge numbers, and Rohit scored one of his double centuries.
+
+Diwali is special because it’s also the festival where I’d see my entire family. On Bhau Beej (known in Marathi as the celebration between brothers and sisters), we’d gift each other tokens of affection. It was a day for gathering, chatting, and, of course, enjoying amazing food – usually seafood, which added to the joy of being together.
+
+Over the years, I’ve seen many Diwalis. There were happy ones, sad ones, and some incredibly joyful ones. I remember getting dengue fever during my third year of engineering. I had to leave after my microprocessor midterm and spent most of the holiday in the hospital, exhausted and, honestly, quite frustrated.
+
+Now, as I celebrate Diwali in the U.S., it feels different. I don’t have my mom waking me up or making her special utna mixture, or her warm faral waiting for me, though she did send some in a parcel from India. Last year, my first Diwali away from home, was especially emotional. We had a gathering at a friend’s place, and my mom had sent me a cardboard foldable lantern, which we lit with some diyas. That small ritual made it feel like Diwali, even though I was miles away.
+![faral of 2023]({{ site.baseurl }}/assets/images/diwaliblog/faral_2023.jpg)
+
+![faral of 2023]({{ site.baseurl }}/assets/images/diwaliblog/faral_3.jpg)
+
+![faral of 2023]({{ site.baseurl }}/assets/images/diwaliblog/lantern.jpg)
+This year, Diwali’s first day coincided with Halloween, and as a Boston resident, Halloween is big here. All my roommates went to Salem, MA – the famous "witch town" – but I had to stay back because of a dreaded midterm. Anyway, tomorrow is Laxmi Poojan, and my plan is to go to the temple, sit through a tedious business lecture, then have some nice Indian food, light the lantern and diyas, and pray for happiness and health for everyone. I remember very well, it was 2022 and I was done with my applications and I knew that,this was the last diwali I was about to celebrate in India for quite some time now. So I went all out and brought tons of crackers and burst them all, just to pander the 13 year old Aayush in me. 
+
+Here is the video of me bursting some awesome ones:
+
+![firecrakcer video]({{ site.baseurl }}/assets/images/diwaliblog/VID_20221030_215049.mp4)
+<video width="600" controls>
+  <source src="{{ site.baseurl }}/assets/images/diwaliblog/VID_20221030_215049.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+In the end, Diwali is about strengthening our inner selves so we can attract wealth and inner prosperity. I hope one day I’ll be able to enjoy the same comforts of Diwali at home once I have a full-time job and some stability. That’s my Diwali story, and I’m grateful for all the memories – past and present.
+![NYC skyline]({{ site.baseurl }}/assets/images/diwaliblog/instasize_231002123425.jpg)
