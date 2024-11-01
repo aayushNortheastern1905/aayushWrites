@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Starring Lights"
+title:  "Homeward Bound: Diwali Reflections Across Borders"
 date:   2024-10-30
 categories: blog
 ---
