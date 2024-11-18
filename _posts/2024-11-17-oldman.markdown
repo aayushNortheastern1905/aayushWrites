@@ -4,8 +4,10 @@ title:  "Old Man"
 date:   2024-10-30
 categories: blog
 ---
-
+![dad_1]({{ site.baseurl }}/assets/images/dad_1.jpg)
 I remember the summer of 2009 like it was yesterday. I had spent the entire season basking under the hot sun of Konkan, Maharashtra—my native place—at my mama’s (maternal uncle’s) home. He lived in a humble hamlet called Halkul in the town of Kankavli. Visiting him was always the highlight of my summer—not just because of the enormous house he had (we Mumbaikars are always in awe of big homes outside the city), or the fun-filled days spent with my cousins playing all sorts of games, or even the delicious food prepared by my beloved aaji (grandmother). What drew me most was how much my dad—my old man—loved this place.
+
+![dad_1]({{ site.baseurl }}/assets/images/dad_2.jpg)
 
 Of all our relatives in the village, I loved visiting Pramod mama’s house the most. My dad enjoyed being there in a way I never saw elsewhere. Even as a 10-year-old, I could sense how happy and at ease he felt. I didn’t understand family politics back then, but I noticed how naturally he slipped into his element in Kankavli. It made me love the place even more.
 
@@ -30,3 +32,5 @@ If I’m being honest, my relationship with my dad hasn’t always been great. I
 It’s my dream to bring him to the USA soon and show him the life I’ve built here. I want to take him to New York City—a city I know he’d love as someone who grew up in Bombay. I want him to experience the energy of NYC, the way I’ve experienced it, and enjoy the retirement life his son will give him.
 
 There are so many things I want to thank him for, and I know no words will ever be enough.
+
+![dad_1]({{ site.baseurl }}/assets/images/dad_3.jpg)
