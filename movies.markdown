@@ -16,3 +16,6 @@ title: Movies/TVshows
 
 4. **Mulshi Pattern** 
     *Mulshi Pattern is the GOAT. Just awesome. A very realstic depiction of how land mafia uses muscle power and political support for their advantage.*
+
+4. **Sopranos** 
+    *I started watching Sopranos a couple of days back. Its an awesome series and I love it.*

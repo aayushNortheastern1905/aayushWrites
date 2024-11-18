@@ -32,7 +32,6 @@ header_pages:
   - cool_stuff.markdown
   - blog.markdown
   - movies.markdown
-  - books.markdown
   - resume.markdown
 
 
