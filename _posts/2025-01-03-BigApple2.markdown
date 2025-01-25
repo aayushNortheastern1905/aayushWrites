@@ -4,7 +4,7 @@ title:  "Summation America"
 date:   2025-01-25
 categories: blog
 ---
-
+![bakchodi in room]({{ site.baseurl }}/assets/images/america/jamaica.jpg)
 "The only thing you are pre-approved for in this life, the moment you are born, is death." I remember hearing someone quote Kanye at a party a few years ago. Morbid, I know. But lately, that realization has been a strange source of comfort. It simplifies things—makes you focus on what really matters.
 
 I’m sitting at this desk, in this same room, reflecting on 2024—a year that broke me into pieces and forced me to rebuild myself again and again. Funny how life works. Just when you think you’ve got it all figured out, it reminds you that you don’t.
@@ -27,6 +27,8 @@ It’s been years since I’ve had a good birthday. The last one I truly celebra
 
 Over time, I’ve learned a lot about myself—where I fall short, what I value, and how much I let others’ opinions affect me. It’s a work in progress, but I’m learning to care less about what people think.
 
+![bakchodi in room]({{ site.baseurl }}/assets/images/america/god.jpg)
+
 Spirituality has been my anchor. I’ve been visiting the Shiva temple in Medford often. There’s something grounding about the rituals—the walk to the temple, the offerings, the prayers. I make sure my offerings are proportional to what I can afford, as a reminder that gratitude should match my means. The walk itself, through snow or rain, reminds me that the path to grace is never easy.
 
 To cope with the isolation, I started exploring Boston on my own. One of my most memorable trips was to Spectacle Island. I went alone, unsure of how I’d feel. But as I wandered the island, taking in the breathtaking views of Logan Airport, the Boston skyline, and the coast, I found a strange sense of peace. It was perfect—a rare moment of solace amidst the chaos.
@@ -35,6 +37,8 @@ The co-op search, though, was a beast of its own. Before landing my current role
 
 They say God tests His strongest soldiers the hardest. I believe that now. Every setback, every tear-filled night, every moment of doubt—it was all part of a plan. A plan to break me down and rebuild me into someone better.
 
+![bakchodi in room]({{ site.baseurl }}/assets/images/america/times.jpg)
+
 Looking back, I can see the silver linings. Reconnecting with old friends, sharing deep conversations, rebuilding bonds I thought were lost forever. Life has a way of surprising you when you least expect it.
 
 There’s a saying: A man lives two lives. The second begins when he realizes he only has one. That realization hit me hard this year. Breaking apart and piecing yourself back together isn’t a curse—it’s a blessing. It’s life’s way of teaching you resilience, perspective, and gratitude.
@@ -42,3 +46,5 @@ There’s a saying: A man lives two lives. The second begins when he realizes he
 If you’ve made it this far, thank you for reading my thoughts. I don’t know if they resonate with you, but I hope they do.
 
 And if they don’t, let me leave you with this: Take that leap of faith. Go the extra mile. Ask yourself what you truly want from life. The answers might scare you, or maybe they’ll inspire you. Either way, don’t stop. Keep moving forward. Because on the other side of fear, uncertainty, and pain lies growth. And that’s where life truly begins.
+
+![bakchodi in room]({{ site.baseurl }}/assets/images/america/bunker.jpg)
