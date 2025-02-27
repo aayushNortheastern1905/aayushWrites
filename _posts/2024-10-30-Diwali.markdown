@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Homeward Bound: Diwali Reflections Across Borders"
+title:  "Homebound"
 date:   2024-10-30
 categories: blog
 ---
