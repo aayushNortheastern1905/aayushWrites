@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Subtraction"
-date:   2025-04-23
+date:   2025-04-24
 categories: blog
 ---
+![bakchodi in room]({{ site.baseurl }}/assets/images/kashmir/dallake.jpg)
 
 "Kashmir is the crown jewel of India."
 I remember my mother saying those words as we stood at a stationery shop, buying a fresh set of political maps for a geography exam. I didn’t fully grasp the weight of that phrase back then. To me, it was just another chapter to memorize — a line repeated in textbooks, marked with bold borders and shaded in soft blue on those crispy freshly printed maps. But memories have a way of outgrowing their definitions.
