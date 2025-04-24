@@ -6,7 +6,7 @@ categories: blog
 ---
 
 "Kashmir is the crown jewel of India."
-I remember my mother saying those words as we stood at a stationery shop, buying a fresh set of political maps for a geography exam. I didn’t fully grasp the weight of that phrase back then. To me, it was just another chapter to memorize — a line repeated in textbooks, marked with bold borders and shaded in soft blue on those laminated maps. But memories have a way of outgrowing their definitions.
+I remember my mother saying those words as we stood at a stationery shop, buying a fresh set of political maps for a geography exam. I didn’t fully grasp the weight of that phrase back then. To me, it was just another chapter to memorize — a line repeated in textbooks, marked with bold borders and shaded in soft blue on those crispy freshly printed maps. But memories have a way of outgrowing their definitions.
 
 The last time I visited Kashmir was in 2009, with my parents to Srinagar. I was just a child then — curious, naïve, and wide-eyed at the snow-kissed chinars and shikara boats gliding over Dal Lake. It was beautiful, almost dreamlike. Yet, even in that dream, there was a chill that crept up my spine every time I passed an Indian army jawan — standing watchful by the roadside, walking silently with his rifle, eyes scanning the distance like a sentinel between worlds.
 
