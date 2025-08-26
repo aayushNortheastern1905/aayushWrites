@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "Rounding off"
+date:   2025-06-19
+categories: blog
+---
+![bakchodi in room]({{ site.baseurl }}/assets/images/new/IMG-20250825-WA0011.jpg)
+
+"This bag is overweight, Aayush!" 
+
+Mom's voice still rings in my ears from exactly two years ago today. There I was, a few hours before my flight, trying to cram 24 years of my entire existence into two measly suitcases. Everything that mattered to me, everything that made me who I was – photos, books, that old t-shirt from college, gifts from friends all fighting for space in those bags like my memories were fighting for space in my heart.
+
+The excitement of starting fresh in America was intoxicating. It drowned out the dullness, the strange emptiness that comes with packing up your whole life. But underneath all that excitement was something I didn't want to admit I was leaving behind a good job, a loving family, friends who knew me inside out. I was walking away from everything safe and familiar.
+
+For some people, the decision to move across the world isn't clear. There are pros and cons lists, sleepless nights, endless conversations with family. But for me? It was crystal clear. The dream of America had been planted in my heart when I was just a kid. I knew I had to break out of my shell, push beyond the comfortable boundaries I'd built around myself.
+
+Walking out of Logan International Airport, Boston felt like stepping onto another planet. The air smelled different, the sounds were different, even the way people walked seemed different. My nervousness was so thick I could taste it. But standing there with my overweight bags and racing heart, I made myself a promise: I owe it to myself and my parents to give this everything I have. No half-measures. No giving up when things get hard. I had no idea how hard they were about to get.
+
+Those first months in Boston were like living in a beautiful, expensive dream that I couldn't quite afford. I went from earning a decent paycheck back home to being that graduate student who checked his bank account before buying a coffee. Every dollar coming from home felt precious, almost sacred. I had to be smart, calculated about every single expense. 
+
+But Boston was magical in its own way. I'd walk around the city for hours, not just because I couldn't afford the subway, but because I was genuinely enchanted. I'd find the bench from Good Will Hunting in Boston Public Garden and sit there, imagining what it felt like to be Will – brilliant but lost, trying to figure out his place in the world. I'd wander through Harvard Square, thinking about The Social Network, about young people with big dreams changing the world from their dorm rooms. The Seaport area from The Departed made me feel like I was part of some grand story, even when my own story felt like it was going nowhere. I was living some version of the American dream, even if it was the broke student version. Then came the internship hunt. Oh boy, did reality hit like a freight train.
+
+![bakchodi in room]({{ site.baseurl }}/assets/images/new/IMG-20250825-WA0007.jpg)
+
+Interview after interview after interview. I'd prepare for days, research the company inside out, practice coding problems until my fingers ached. I'd walk into those zoom meetings feeling confident, nail the technical questions, connect with the interviewers, leave feeling like I'd made a real impression. And then... nothing. Complete silence. Ghosted so many times I started wondering if I was actually invisible.
+
+The worst part wasn't the rejections, it was the false hope. One Boston company actually offered me a position. I remember calling my parents, their voices breaking with joy and pride over the crackling WhatsApp call. "We knew you could do it," Mom said, and I could hear her crying happy tears on the other side of the world.
+
+Twenty-four hours later, they rescinded the offer. "Budget constraints," they said, as if those two words could somehow cushion the blow of having your dreams yanked away. That night, I hit rock bottom.
+
+I sat in the middle of an empty street near my apartment and just sobbed. Ugly, shoulder-shaking, snot-running-down-my-face crying. It was the first time I'd cried heavily since landing in America - the kind of deep, soul-wrenching cry you only do when someone close to you dies, and all the emotions I'd been holding back for months came flooding out like a dam had burst.
+
+Maybe I should have stayed in my comfortable job. Maybe I wasn't cut out for this. Maybe I was just another dreamer who bit off more than he could chew. The worst part was imagining my parents' faces, the disappointment they'd try to hide if I came crawling back home as a failure.
+
+I sat there until the tears ran dry, until the Boston cold started seeping through my jacket, until I couldn't feel sorry for myself anymore.The next morning, I made a choice. I could either let this break me, or I could get back up and fight harder.
+
+I chose to fight.
+
+I threw myself into building something meaningful, verydesi.com, a platform for South Asian immigrants. My friends and I wanted to create something that could actually help people like us navigate this strange new world. Every line of code I wrote felt like a small rebellion against the companies that had rejected me. Every feature we built was proof that I belonged in this industry, even if they couldn't see it yet.
+
+The beautiful thing about building something from scratch is that nobody can take it away from you. No recruiter can ghost your own project. No company can rescind your own ideas. Working on verydesi became my therapy, my training ground, my proof of concept all rolled into one.
+
+I was learning new technologies, solving real problems, creating something that mattered. Even when I couldn't see the progress day by day, I was growing stronger, smarter, more skilled. The rejection emails kept coming, but they stung a little less each time because I knew I was building something bigger than any single opportunity.
+
+Then emtech care labs happened.
+
+I'll never forget that phone call. After months of rejections, after starting to believe that maybe I wasn't good enough, someone finally said yes. Not just yes, they wanted me, specifically me, to join their team.
+
+I was the happiest person in Boston that day. I called my parents immediately, and this time, the joy in their voices felt real, permanent, safe. 
+
+Emtech wasn't just a job, it was exactly what I needed. Being a healthcare startup, they didn't have room for passengers. Everyone had to contribute, take ownership, make real decisions that affected real people. The responsibility was both terrifying and exhilarating.
+
+I dove headfirst into the AWS serverless stack, technologies I'd only read about before. Every challenge they threw at me felt like a gift, an opportunity to prove not just to them but to myself that I belonged here. I was taking ownership of features that thousands of people would use, making decisions that would impact the company's direction.
+
+My technical skills were growing by the day, but more importantly, my confidence was rebuilding itself, brick by brick.
+
+Something shifted this year. The struggles were still there – grad school stress, job hunting anxiety, the constant pressure of proving myself, but underneath it all was something new. A quiet confidence. A sense that I was becoming who I was meant to be.
+
+For the first time since landing in America, I could do something I'd been dreaming about for two years: I brought my mom to visit.
+
+![bakchodi in room]({{ site.baseurl }}/assets\images\new\IMG-20250825-WA0008.jpg)
+
+Showing her around New York City, walking through Boston Common, taking her to Portland's food trucks, these weren't just tourist activities. They were victory laps. Every photo we took together was proof that this crazy dream was working. When I saw the pride beaming through her eyes as she watched me navigate this world I'd built for myself, as she met my friends and saw my life, I knew every struggle had been worth it.
+
+"I'm so proud of you," she whispered to me one evening as we watched the sunset over Boston Harbor. That momen, her hand in mine, the city lights starting to twinkle, the knowledge that I'd made something beautiful out of all that chaos, that moment made every rejection email, every lonely night, every moment of doubt completely worthwhile.
+
+Two years ago, I was a nervous 24-year-old with overweight luggage and oversized dreams, stepping off a plane into complete uncertainty.
+
+Today, I'm still nervous sometimes, but it's a different kind of nervousness. It's the excitement of knowing I can handle whatever comes next. I'm a software engineer with real-world startup experience, cloud expertise that companies actually need, and something you can't learn in any classroom – the kind of resilience that only comes from rebuilding yourself from scratch in a foreign land.
+
+As I approach graduation this December, I'm not just looking for my next job. I'm ready for my next adventure, my next challenge, my next opportunity to prove that dreams aren't just pretty thoughts – they're blueprints for reality. This journey has taught me that success isn't a straight line from point A to point B. It's messy, painful, beautiful, and absolutely worth it. Every rejection taught me something. Every small victory prepared me for bigger ones. Every tear I cried watered the seeds of who I was becoming.
+
+The American dream isn't just about making it big or getting rich or achieving some predetermined definition of success. It's about the courage to bet on yourself, the strength to get back up when life knocks you down, and the wisdom to appreciate every small victory along the way. I'm ready for whatever comes next, because I've learned the most important lesson of all: each battle – win or lose – prepares you for the next one. They say what doesn't kill you makes you stronger, and I'm living proof of that.
+
+Two years ago, I started this journey with an overweight bag and an overweight heart – heavy with dreams, fears, and expectations. Today, as I round off this chapter of my life, I realize that sometimes the most beautiful stories aren't about reaching your destination perfectly. They're about who you become while carrying the weight, about learning when to hold on and when to let go, about discovering that the heaviest things we carry are often the ones that make us strongest.
+The bag might have been overweight, but so was my determination. And that's made all the difference.
+
+![bakchodi in room]({{ site.baseurl }}/assets\images\new\IMG-20250825-WA0012.jpg)
+---
+
+*To everyone still fighting their own battles, still chasing their own dreams, still wondering if they're strong enough or smart enough or lucky enough: you are. Trust the process. Trust yourself. The best stories always start with someone brave enough to take the first step into uncertainty.*
