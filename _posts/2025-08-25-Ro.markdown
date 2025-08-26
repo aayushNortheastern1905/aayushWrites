@@ -4,7 +4,7 @@ title:  "Rounding off"
 date:   2025-06-19
 categories: blog
 ---
-![bakchodi in room]({{ site.baseurl }}/assets/images/new/IMG-20250825-WA0011.jpg)
+![bakchodi in room]({{ site.baseurl }}/assets/images/new/WhatsApp Image 2025-08-26 at 00.42.49_87a90f1e.jpg)
 
 "This bag is overweight, Aayush!" 
 
