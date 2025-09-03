@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rounding off"
-date:   2025-06-19
+date:   2025-08-25
 categories: blog
 ---
 ![bakchodi in room]({{ site.baseurl }}/assets/images/new/WhatsApp Image 2025-08-26 at 00.42.49_87a90f1e.jpg)

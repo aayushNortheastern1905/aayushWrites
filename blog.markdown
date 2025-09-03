@@ -1,5 +1,5 @@
 ---
 layout: home
-title: "Blog II"
+title: "Blog N"
 ---
 

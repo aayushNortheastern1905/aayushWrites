@@ -29,7 +29,7 @@ github_username:  aayushNortheastern1905
 
 header_pages:
   - about.markdown
-  - cool_stuff.markdown
+  # - cool_stuff.markdown
   - blog.markdown
   - movies.markdown
 
