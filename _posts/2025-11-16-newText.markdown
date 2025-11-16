@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "New Leaf"
+date:   2025-11-16
+categories: blog
+---
+"Every immigrant carries two deaths in their heart: the person they were, and the life they could have lived."
+
+Nobody tells you this at the visa interview. They ask about your bank statements and degree certificates, not about how you'll feel when your brother calls to say he's getting married and you realize you'll watch it through a phone screen. They don't measure the weight of missing Ganpati, or calculate the compound interest on loneliness that accumulates every time LinkedIn shows you another "We've decided to move forward with candidates who don't require sponsorship."
+
+I've discovered my life operates on what I call the rectangular hyperbola principle. Perfect inverse proportion. The week I crush a couple of technical interviews is the same week I eat instant ramen alone at 2 AM, scrolling through Instagram stories of friends back home at someone's sangeet. The day Google calls is the day I realize I haven't had a real conversation with anyone in weeks. Success and isolation dance together like drunk wedding guests who don't realize the music has stopped.
+
+Boston has finally stopped feeling foreign, which might be the saddest victory I've ever won. I don't cry at festivals anymore. Not because I've grown stronger, but because you can't keep mourning the same loss every year. The first Diwali without family breaks you. The second one teaches you to buy your own mithai. By the third, you've learned to time your calls perfectly so you catch the puja but hang up before the emptiness of your shitty student apartment in Jamaica Plain becomes too loud.
+
+The tech scene is a peculiar kind of theater. Everyone knows the script: LeetCode problems, system design, behavioral questions where you pretend your biggest weakness is "caring too much about code quality." I interviewed with five YC companies this month, all with funding and revenue over 100 million. Two of them reached out to me first, practically begging for a call. The conversations always start the same way: "Your experience is exactly what we're looking for." Then comes the unspoken intermission nobody talks about, where the recruiter asks about work authorization and suddenly the lights dim. H1B. Two syllables that can turn a sure thing into a ghost story. I've become fluent in reading the pause that follows "I'll need to check with the team about sponsorship." Those two companies that pursued me? They disappeared faster than my hopes of getting a green card through employment.
+
+Two friends are getting married this year. When one of my closest friend called to say her parents finally agreed to her choice, I felt this violent happiness, like something inside me remembered what joy was supposed to feel like. Then came the familiar sting: I'll experience this wedding through Instagram posts and shaky video calls where the connection drops right during the vows.
+
+September 2022 broke something in me that I'm still not sure has healed. Just when I thought I'd finally understood what an adult relationship meant, everything went south with the one person I'd loved completely. The kind of love that rewrites your DNA, that makes you believe in forever until forever ends on a random Thursday. Six months later, I went on a coffee date with someone perfectly nice, and felt absolutely nothing. Like trying to start a fire with wet matches. I was glad when that didn't work out, though I couldn't admit why: I wasn't looking for something new, I was looking for something to fill the her-shaped hole in my chest.
+
+Fall 2023, I came to the US thinking geography could cure heartbreak. Spoiler alert: it can't. But the universe has a twisted sense of timing. I met someone in late 2024 (professionally though), and couple of months into 2025 we'd grown close(I would say). She was(or should I say is) pretty, smart, good family background, as my mother would catalog. After nearly three years of emotional permafrost, I finally felt something thaw.
+
+God must enjoy teaching me the same lesson in different fonts. Took her out a couple of times, finally worked up the courage to tell her how I felt, and she gave me that practiced smile that means "I like you but not like that." The rejection stung, but in a way it freed me. I accepted the reality and started living without that weight. Started feeling like myself again. Until she figured out the perfect distance to keep me hoping. She exists now in calculated orbits around my life, distant until she needs something, then suddenly close enough to remind me why I fell in the first place.
+
+At 26, I should know better than to answer. I should have learned from 2022 that you can't make someone love you by being useful. But here's what one devastating heartbreak and endless visa rejections have taught me: loneliness makes you stupid in very specific ways. You start treating breadcrumbs like a feast. You answer texts at 2 AM from people who wouldn't notice if you disappeared tomorrow. You let yourself be someone's convenience store, open 24/7, because at least when they walk in, you exist for those few minutes.
+
+The girl from 2022 got married last week. I saw the photos on Instagram, waited for the pain to hit, and felt... nothing. Absolutely nothing. Not healing, not closure, just this weird emotional silence. Maybe that's the cocoon I've been building around myself. Or maybe you can only break the same heart so many times before it stops registering pain. Either way, it scared me more than feeling something would have.
+
+Sometimes I wonder if I'm broken in some fundamental way, if 2022 didn't just end a relationship but my ability to properly feel anything again. Or maybe this is just what dating looks like when you're on borrowed time in America, when every connection comes with an expiration date printed on your EAD card.
+
+My friend at NVIDIA, someone I'd brought vintage Bollywood record CDs for just because he mentioned getting a record player once. They cost a fortune, but what's money between friends, right? When I asked him for a referral, it took two weeks for him to tell me he was too busy. I get it, he's genuinely busy. Success does that to people. But I couldn't shake the surprise, this hollow feeling that the ten minutes it would have taken him felt heavier than all those hours we spent together when we were both nobody. I applied anyway, got rejected anyway, and we don't really talk about it.
+
+Here's what kills me: I don't want to keep score in friendships. I hate that transactional bullshit. But sometimes, just sometimes, I want to feel like I can expect something from the people I call close. Not because I've earned it by bringing expensive gifts or being there during their tough times, but because that's what friends do. They show up. Even for ten minutes. Even when they're busy. Especially when they're busy.
+
+There was a time, not so long ago, when I genuinely didn't know if I'd see my parents again. When every phone call could have been the last one. If I survived that particular hell, if I can carry that weight and still wake up every morning, then I can survive this peculiar American purgatory of optional practical training and arbitrary lottery systems.
+
+The truth is, I'm fighting a war on two fronts. On one side, there's the American dream with its algorithms and visa stamps and recruiters who say "impressive background" right before they say "unfortunately." On the other, there's life in India continuing without me, like a movie I walked out of but can still hear through the walls. My brother will get married. Friends will have children. Parents will get older. And I'll be here, refreshing USCIS case status and pretending Thai takeout tastes like home.
+
+But as Lord Rama said, a Kshatriya's dharma is to fight until the last breath for what is right. So the game continues. Adapt, improvise, learn, repeat. That's my algorithm now.
+Some nights, after two neat pegs of Evan Williams, I think about the arranged marriage my parents keep suggesting. It sounds better than this modern dating hellscape where people treat each other like stock options, waiting to see who rises and who crashes before making a commitment. At least arranged marriage is honest about what it is: two people agreeing to build something instead of waiting for lightning to strike.
+
+I promised Bappa I'd show him my best version next year. I don't know what that looks like yet, but I know it's not this, sitting alone on a Saturday night, writing feelings into the void because it's cheaper than therapy and more reliable than friends who got too busy to remember you exist.
+
+Tomorrow I'll wake up, check my email for interview invites, solve another LeetCode problem, and keep building. I'll text back selectively, choosing connection over convenience. I'll send my resume out again, because somewhere out there is a company that sees talent before paperwork.
+
+But tonight, with Evan Williams as my witness and Boston's skyline glowing through my window, I'll admit the truth: I don't know if this new leaf I turned was supposed to be a beginning or an ending. All I know is that it's mine, and that has to be enough.
+Maybe doing it my way isn't about pride or victory. Maybe it's just about ownership. This mess, this beautiful disaster of a life split between two continents, it's mine. Every mistake, every small triumph, every night wondering if I'm building a future or just postponing a reckoning.
+
+Andy Dufresne crawled through five hundred yards of shit and came out clean on the other side. But here's what people forget about that story - he didn't do it for redemption or revenge. He did it for hope. When Red finally reads Andy's letter, he finds those words: "Hope is a good thing, Red, maybe the best of things, and no good thing ever dies."
+
+But tonight, with Evan Williams as my witness and Boston's skyline mocking me through my window, I'll admit the truth: I don't know if this new leaf I turned was supposed to be a beginning or an ending. All I know is that it's mine, and that has to be enough.
+
+Because if it's not, then what the hell was any of this for?
