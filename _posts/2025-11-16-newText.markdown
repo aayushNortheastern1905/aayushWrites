@@ -4,7 +4,7 @@ title:  "New Leaf"
 date:   2025-11-16
 categories: blog
 ---
-![bakchodi in room]({{ site.baseurl }}/assets/images/newleaf.jpg)
+![bakchodi in room]({{ site.baseurl }}/assets/images/newleaf.JPG)
 
 "Every immigrant carries two deaths in their heart: the person they were, and the life they could have lived."
 
