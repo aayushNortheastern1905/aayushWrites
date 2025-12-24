@@ -4,7 +4,7 @@ title:  "End of the Beginning"
 date:   2025-12-24
 categories: blog
 ---
-![bakchodi in room]({{ site.baseurl }}/assets/images/america/spec.jpg)
+![bakchodi in room]({{ site.baseurl }}/assets/images/america/jamaica.jpg)
 
 "There are years that ask questions and years that answer them." ~ Zora Neale Hurston
 
