@@ -23,8 +23,9 @@ My parents came to visit and saw me as I actually was, and that turned out to be
 
 <img src="{{ site.baseurl }}/assets/images/westlake/dad_n_mom_edge.JPG" alt="Dad and Mom" style="width:40%; height:300px; object-fit:cover;">
 
-<img src="{{ site.baseurl }}/assets/images/westlake/mom_n_me.JPG" alt="Mom and me" style="width:40%; height:300px; object-fit:cover;">
 
 I'm closing my chapter in Cleveland in a few days and I genuinely don't know what comes next. What I keep returning to is something I didn't expect to find down here, which is that rock bottom isn't a transit stop. It's a foundation, and you don't pass through it so much as you slowly learn to build on top of it. Andy Dufresne crawled through five hundred yards of filth and came out the other side not because he was fearless but because he understood something about hope that most people only figure out when they have nothing left. Hope is a good thing, maybe the best of things, and it compounds quietly in the background while you're busy just trying to survive, and you only notice it when you look back and realise you're still standing. Life breaks everyone eventually, the good ones and the brave ones and the ones who did everything right, and the only ones it doesn't break are the ones it finishes entirely. There is no shame in being broken. You gather what's left, you hold onto the things that still feel warm, you remember who you were before the world got its hands on you, and every passing minute becomes another chance to turn it all around. I'm still collecting the pieces. I'm still in the game. And I haven't forgotten who I am.
 
 ~ Written from the bottom of the rock. May 2026.
+
+<img src="{{ site.baseurl }}/assets/images/westlake/mom_n_me.JPG" alt="Mom and me" style="width:40%; height:300px; object-fit:cover;">
