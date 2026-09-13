@@ -5,7 +5,7 @@ date: 2026-09-13
 categories: blog
 ---
 
-Do you ever feel like you've been standing at the edge of the abyss for too long? Like it's been a while since anything in your life has felt good, not one single part of it? I feel that sometimes.
+Do you ever feel like you've been standing at the edge of the abyss for too long? Like it's been a while since anything in your life has felt good? I feel that more than I like to admit. 
 
 I remember sitting in Fenway Park on a gray morning that turned out to be my graduation day. The end of the most expensive journey I've ever taken. Money wise. Mentally too. I sat there in a cap and gown and had no idea what came next. I looked up and saw my parents in the stands, freezing, still cheering for me anyway. That's Boston for you.
 
