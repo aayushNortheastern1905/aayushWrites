@@ -8,7 +8,8 @@
   display: flex;
   flex-wrap: wrap;
   align-items: flex-start;
-  gap: 0 3rem;
+  justify-content: space-between;
+  gap: 0 2rem;
   margin-left: 0;
 }
 
@@ -19,7 +20,7 @@
 }
 
 .footer-col-3 {
-  flex: 1 1 14rem;
+  flex: 0 1 45%;
 }
 
 .social-media-list .username {
