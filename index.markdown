@@ -5,11 +5,12 @@
 layout: page
 ---
 
-Hello! I'm Aayush.
+Hey, I'm Aayush.
 
-I'm curious about tech, cricket, geopolitics, cult movies, cinematography and cooking awesome food.
-I am based out of Boston, MA and I love roaming around beantown on a nice warm sunny day.
-My favorite places in Boston and Cambridge are Boston Commons, Long Wharf, MIT/Harvard campus area and Quincy Market.
+Born and raised in Mumbai. I love traveling, exploring new places, and talking and writing about tech, cricket and life in general. Cinematography and cooking all kinds of food keep me happy too.
 
-I am currently a Master's student at Northeastern University. I am majoring in Computer Information Systems. I aspire to be a Solutions Architect for any product that is creating an actual difference in the world. I am interested in working on building a scalable, robust and secure infrastructure for such different products.
+Three years ago I moved to the US for my master's in software engineering at Northeastern University. The journey has had its ups and downs. I've lived in Boston, Cleveland and Seattle, and now I'm back on the East Coast, in the deep South, working as a software engineer.
 
+Life has knocked me down pretty hard a few times, but I keep getting back up. One day I want to start something of my own and build software that makes people's lives easier. I strongly believe that if you want to win the lottery, you have to make the effort to buy the ticket.
+
+Boston and NYC will always have my heart. If you ever want to explore either one, I'd love to be your tour guide.

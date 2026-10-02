@@ -1,0 +1,27 @@
+---
+---
+
+@import "minima";
+
+// Footer: three columns on one line, each sized to its content
+.footer-col-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 0 3rem;
+  margin-left: 0;
+}
+
+.footer-col {
+  float: none;
+  width: auto;
+  padding-left: 0;
+}
+
+.footer-col-3 {
+  flex: 1 1 14rem;
+}
+
+.social-media-list .username {
+  white-space: nowrap;
+}
