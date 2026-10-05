@@ -1,16 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 ---
 
-Hey, I'm Aayush.
+Welcome! I'm Aayush.
 
-Born and raised in Mumbai. I love traveling, exploring new places, and talking and writing about tech, cricket and life in general. Cinematography and cooking all kinds of food keep me happy too.
+Voice AI, geopolitics and history keep my brain busy. Cricket and pop culture keep me happy, and I never feel the need to explain why. If you wanna learn more about me, [click here]({{ site.baseurl }}/about.html).
 
-Three years ago I moved to the US for my master's in software engineering at Northeastern University. The journey has had its ups and downs. I've lived in Boston, Cleveland and Seattle, and now I'm back on the East Coast, in the deep South, working as a software engineer.
-
-Life has knocked me down pretty hard a few times, but I keep getting back up. One day I want to start something of my own and build software that makes people's lives easier. I strongly believe that if you want to win the lottery, you have to make the effort to buy the ticket.
-
-Boston and NYC will always have my heart. If you ever want to explore either one, I'd love to be your tour guide.
+I ~~am a grad student at Northeastern in Boston~~ recently finished my master's in software engineering at Northeastern, and now I build software for a living. I love using AI to make products that make everyday life easier.
