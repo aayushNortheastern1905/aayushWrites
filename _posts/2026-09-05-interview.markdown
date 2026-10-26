@@ -1,0 +1,78 @@
+---
+layout: post
+title: "Merge Conflict"
+date: 2026-10-25
+categories: blog
+---
+
+For as long as I can remember I always wanted to be a ~~gangster~~ writer.
+
+It was something that crossed my mind sitting in my English class. It was October 2013, around 13 years back. A young, full of spirit Aayush sat at his desk and admired whatever arid deciduous beauty Sector 19, Airoli could possibly offer, as my dumb English teacher rambled on about something from [Gulliver's Travels](https://en.wikipedia.org/wiki/Gulliver%27s_Travels). I had read that book a couple of times by then. My maushi (aunt) had gifted it to me a few years back, and she is the reason I got into reading at all. I will always be grateful to her for that. Anyways, for now my name was being called while I was reminiscing about the all time fav Ray Liotta and De Niro movie I had watched the previous weekend on Star Movies, alone, hiding, like I had stolen something, so my parents wouldn't find out. A part of me at the same time was wondering how I failed to download it off the torrent, I mean come on, it was downright insulting to my torrent skills. But yeah, for now we had bigger problems. My teacher was calling my name for the third time, one step away from hurling a horizontal projectile at me at roughly 60 km/h, a speed no road in Mumbai has ever allowed, thanks to every corrupt government and bureaucracy. I looked up with my indifferent face, cloaked with a hint of the sorry that Ray Liotta wears in front of his mother and wife, and smiled. "Yes, ma'am?"
+
+She repeated the question after hurling a snarly comment at me. She wanted to know why Lemuel Gulliver felt like a giant in Lilliput but felt tiny in Brobdingnag, when he was the same man in both places. I answered without hesitation, since I knew that story well thanks to my maushi: nothing about him changed, only the people standing next to him did. In Lilliput everyone was six inches tall, so he was the giant. In Brobdingnag everyone was a giant, so he was the tiny one. Same guy, different ruler.
+
+Looking back from 2026, I can't help but draw some parallels with how an LLM does the same thing my brain did. You can argue I had some cache saved from previous reads, but come on, even my brain works on a least recently used eviction policy. What I didn't know back then was how many times I would end up thinking about that answer.
+
+Anyways, 13 years have passed and tonight I'm sitting in my office alone on a Friday instead of going out, writing this for some reason or maybe no reason at all, idk, we'll find out soon enough. Don't worry, I have a movie to catch soon, my third this month.
+
+Two years before this, I was in one of the worst phases of my life. I was hunting for an internship, and I kept coming so close. Once I actually got one, and then the offer was rescinded. 2024 went by so fast I still can't believe it's gone. Back then I was sure nothing could be worse than that, and then this year proved me wrong. That's the thing about life: it keeps getting tougher, and it never waits for you to be ready. All you can do is grow into the situation and be the man it needs you to be. What kept me going is knowing that everything is temporary. Good times won't last forever, and neither will the bad ones. I'm not saying this to complain, it's just something I figured out along the way.
+
+I didn't figure it out alone. It took a lot of help and effort, and my close friends were the ones who pointed out that I needed something else in life, an escape I could reach for when things got hard, so I wouldn't lean on people every time I felt bored. The answer came on a trip. Two years ago I went to New York for the first time, spending my own hard earned money in the US, and on the way back I decided life is too short to be miserable. Bad things happen no matter how hard we try to stop them, so we might as well live through them like a man and write it out. So what if I don't have anyone. I have myself, and I have my mind, which is truly mine. That is how this blog started, and it turns two on the 27th. I think it is also a testament to my way of escaping from the universe.
+
+Everyone I know has a support system: siblings, a close friend, a partner they call when things go wrong. I have a few friends, but I can't rely on them all the time, so I have this blog.
+
+It started around Diwali. I remember sitting somewhere on campus, writing about how different Diwali was in the US. I was sad because I wouldn't be with my parents, and I complained about how bad it was in Boston. Now I'm in Florida, and I don't even have the few people I had in Boston. This will be the loneliest Diwali of my life, because there is actually no one.
+
+Lately I feel like I have been sitting on two different branches with a lot of merge conflicts, trying to figure out how this rebase or merge would work. The merge conflict is not just with my life but also with the countries I get to live in. I get to live two different lives, or one life with two persons. One is the default Indian one, and the second is the American one that I have quietly assimilated into. Gulliver was the same man on both islands, and so am I. Only the ruler changes.
+
+I felt it first when I started interviewing for companies. In India, if you solve 2 LC mediums in the interview, the CEO of the company will come out and garland you, the way some Indian elites welcomed the East India Company, knowing very well these white pricks were going to fuck over the poor masses. In America, 2 LC mediums is the bare minimum, I mean that is what is needed, but so what? You better juggle and do one deep dive in the pool from the cliff and then we might think about if we can take you. It's Whiplash. Fletcher says there are no two words more harmful than "good job," and every American hiring loop seems to have read that line and taken it as a mission statement. Of course this is mostly valid only for international students.
+
+My interview at eQ Tech in 2020 was about solving a star pattern problem in C, along with dynamic pointer questions. And then my interview for the ServiceNow software intern role, these mofos asked me the [trapping rain water](https://leetcode.com/problems/trapping-rain-water/) problem. Yes. Lilliput to Brobdingnag, right there.
+
+After the layoffs in May, and after getting my shit together, I went to Boston for my graduation. It was a planned trip since my parents were coming.
+
+On my trip to Boston I got an interview in NYC, an in person one. I remember giving the telephonic interview from Boston airport. The recruiter said if I can make it to NYC, since I was already going to be around, I could come down and meet them at the office for an "in person chat". It was like being invited to a dinner party and getting handed a knife at the door. I was not told it was a tech round, and guess what, all of a sudden boom, in Manhattan I was asked to take my laptop out, do a git init, and code a [token bucket rate limiter](https://en.wikipedia.org/wiki/Token_bucket) problem. Got it? Yes, I fucked up, and when I asked him the reason for such a brutal interview, they said the role is a software / forward deployed role and they expect all their engineers to solve the issue wherever the customer is.
+
+Yup. I was stunned and I left, and enjoyed the rest of my trip as much as I could, or at least pretended to.
+
+After going back to Cleveland, I gave countless interviews. One such interview was for a front end engineer role, and guess what, the first round was React coding. This guy asked me to build a fuckin chess board and casually said even if I'm able to render an 8x8 grid I will win the round. So I took it on my ego and built a decent working chess board with moving pieces.
+
+Later, the next round was a DSA coding question, that is [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/), again a LeetCode medium, and I feel it was Kahn's algo. Later the interview was a system design one, and yes I prepped all night and felt this is it, I am thinking I will do it. But guess what, I didn't, because the interview never happened. Yup. It was Waiting for Godot. Two men sit by a tree all day waiting for someone who never shows up, and I sat by my laptop doing the same, except my Godot had a Zoom link.
+
+None of this is meant as a complaint, it's an observation. When your chips are down, it doesn't matter whether you are in India or the US, you get shown the boot. I have gone through 8 full loops, and at least five of them ended in a no. I'm fairly sure the only reason was an early layoff sitting on my resume. It's The Scarlet Letter. Hester Prynne walks into town and everyone reads the A on her chest before they hear a word she says, and my resume walks into a room with the layoff at the top. Basata did it, so did Maestro and Harper, along with two other YC companies I'd rather not name.
+
+I have interviewed with more than 27 companies by now. If I had given 27 interviews in India, there is no fuckin way I would be working a contract job in Florida. Not that I hate it.
+
+The most recent one was a fintech company in Tampa, right before my birthday. I did two screenings with their engineers, then they called me back and I put on a show, and I met the CEO too. The super day had two panels, one with a director and one with five engineers. It was back to back system design, then a whiteboard round, then the slow wind down before the vote. I even built a demo and showed it in the room, so they'd know I understood what they were building. If it fell apart, it didn't fall apart on my side.
+
+And what did I get? Silence. They said my work was solid and I was all set, but they needed time because they wanted to hire a director level person for the same department first. That was a month ago. Red says hope is a dangerous thing, and he says it after getting turned down at parole hearing after parole hearing. Now I check my inbox the way he walks into that room, polite, patient, and not fully sure anyone is coming.
+
+Who the fuck am I to complain, right?
+
+The interviews are not the only branch with an open conflict, though. There is one at home too. I remember when I was living for a week in Chelsea, Mass, my parents would call me often here and there saying hey come back, come back, no need to stay like that, etc., and they still do. It reminds me of Murph's messages to Cooper in Interstellar. It's the same question every time, come home, and the years pile up on the other end of the line. They still think about what happens after the contract ends. It's not like you are saving a fortune.
+
+And I feel I don't mind going back, but not so soon. I mean come on, I have come so far. I am doing things to improve myself here. But what else can I do then? Since what else can we even do here? Tell me.
+
+All my friends who were behind me are catching up and some have gone beyond me. I know it's not a competition, but still I feel left behind. My friends in India have all things sorted. I had one thing, that was my career, and that is also hanging by a thread. I honestly feel if I go back to India it will be a fight, a huge fight to win again, and I don't know how much energy is left in my tank.
+
+And even if I did go back, it wouldn't be the India I left. India is not the same man. India is officially fucked. Sometimes the government fucks it up, and sometimes when the government does good, people are not willing to accept the change. I think India has also gone through a merge conflict itself and something is not resolved yet.
+
+The India I grew up with had its share of pomp and show, but never like this. Not everything was packaged and sold.
+
+I remember a time in India, in Mumbai, when Ganesh Chaturthi, or the night before Ganesh Chaturthi, was special, always special, and Navratri was the same. It was about culture, bringing people together and religion, a bonfire and all.
+
+Now it's all about who has the biggest mandal and who gets the most vargani when it comes to Ganpati. Mandals like Lalbaugcha Raja seem to put the mandal above God, and the karyakartas flex their Lalbaug pass like it is a medal. I remember hearing that last year the mandal gave VIP darshan to a porn star, while common devotees stood in line for hours behind her. A mandal that is fine with that in a sacred place has its priorities wrong. Even devotees now treat visiting such pandals as a flex. The state human rights commission [sent notices](https://www.etvbharat.com/en/!state/ganeshotsav-2025-mhrc-notice-to-maharashtra-govt-over-vvip-darshan-at-lalbaugcha-raja-enn25090200403) over the alleged separate VIP queues, and the mandal says it doesn't issue VIP passes. Sure.
+
+I strongly feel God is not found in a queue or a pass. You get there by keeping your mind clean, helping people, and being a good person to yourself and to others. That is bhakti.
+
+Navratri has gone the same way. It used to be about the Devi and the pooja. Now many people come to dance garba mainly to meet and flirt with potential partners, and I hardly see anyone at the aarti. Garba was traditionally women dancing around a lamp, and seeing grown men this excited about it just for the dating scene irks me. And the garba classes, man. I respect the Gujarati community. They are an enthusiastic people, and they have taught me more about business and scalability than Ankur Warikoo ever has. But I still feel there is no need to have fuckin coaching classes for everything.
+
+Through these blogs I have also said a few harsh truths. For those who got it, great. For those who got offended, I'm sorry, but I'm not going to change, and I'm happy to have a respectful debate about it.
+
+This is the biggest merge conflict in India for me. One branch says faith is a queue, a pass, and a photo at the right pandal. The other says it is a clean mind and a good deed. I know which branch I am on. I just don't know how India merges the two.
+
+That one isn't mine to solve right now. My fight is here. I came to the US to get what's mine, and I'm not done yet. I want to keep going and keep doing what I do, because it makes me happy, I swear, man, it does. If I do go back one day, it will be on my terms, and it will still take me a while to accept what's happening in the name of festivals and religion. But that day isn't today.
+
+Writing is what got me this far, because it opened many doors for me. At COEP I was an underconfident person. Now I'm in a bad phase again, but I'm sure I will make it out, because I already have once.
+
+Funny thing is, the book ends with Gulliver going back home and not fitting in there either. I'm not sure which island is mine yet. Until I am, I'll keep fighting on this one, and keep writing from both. After all, what is this world without art? Just a piece of rock.
