@@ -77,4 +77,4 @@ Writing is what got me this far. At COEP I was an underconfident person, and wri
 
 Funny thing is, the book ends with Gulliver going back home and not fitting in there either. I'm not sure which island is mine yet. Until I am, I'll keep fighting on this one, and keep writing from both.
 
-![halloween_porch]({{ site.baseurl }}/assets/images/halloween-porch.jpg)
+<img src="{{ site.baseurl }}/assets/images/halloween-porch.jpg" alt="halloween_porch" style="display:block; margin:2em auto; width:100%; max-width:420px; height:auto;">
