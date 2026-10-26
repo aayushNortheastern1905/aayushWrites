@@ -76,3 +76,5 @@ That one isn't mine to solve right now. My fight is here. I came to the US to ge
 Writing is what got me this far. At COEP I was an underconfident person, and writing opened many doors for me. Now I'm in a bad phase again, but I'm sure I will make it out, because I already have once. Writing is how I turn a bad phase into something I can look at, and I think that is what art is for. After all, what is this world without art? Just a piece of rock.
 
 Funny thing is, the book ends with Gulliver going back home and not fitting in there either. I'm not sure which island is mine yet. Until I am, I'll keep fighting on this one, and keep writing from both.
+
+![halloween_porch]({{ site.baseurl }}/assets/images/halloween-porch.jpg)
